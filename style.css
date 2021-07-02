@@ -1,0 +1,19 @@
+* {
+    box-sizing:border-box;
+    padding:0;
+}
+body{
+    margin:0
+}
+
+.top{
+    background-color: coral;
+    display:flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    display:flex;
+    justify-content: space-between;
+}
